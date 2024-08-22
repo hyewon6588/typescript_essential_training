@@ -1,4 +1,4 @@
 {
-  "compilerOptions": { "outDir": "build", "target": "ES6" },
+  "compilerOptions": { "outDir": "build", "target": "ESNext" },
   "include": ["src/**/*"]
 }
