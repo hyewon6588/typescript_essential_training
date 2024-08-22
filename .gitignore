@@ -1,4 +1,4 @@
 node_modules/
 package-lock.json
 .DS_Store
-.exercise_files/Ch01/01_02b/build
+exercise_files/Ch01/01_02b/build/
